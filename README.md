@@ -2,10 +2,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @yhf98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning deeplearn
+- 📫 How to reach me 1921934563@qq.com
 
 <!---
 yhf98/yhf98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
