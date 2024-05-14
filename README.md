@@ -2,6 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhf98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
+  
+  <a href="https://github.com/yhf98/yhf98">
+        <img align="center" src="https://raw.githubusercontent.com/yhf98/yhf98/output/github-contribution-grid-snake.svg" />
+  </a>
   <a href="https://github.com/yhf98/yhf98">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhf98&repo=yhf98&theme=vue-light" />
   </a>
