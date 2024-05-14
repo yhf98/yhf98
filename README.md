@@ -9,10 +9,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhf98&repo=hid-handle&theme=vue-light" />
   </a>
 </p>
-                  
-原文链接：https://blog.csdn.net/qq_43629857/article/details/133317707
-                        
-原文链接：https://blog.csdn.net/qq_43629857/article/details/133317707
 - 👋 Hi, I’m @yhf98
 - 👀 I’m interested in anything
 - 🌱 I’m currently learning deeplearn
