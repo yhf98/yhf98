@@ -6,12 +6,12 @@
   <a href="https://github.com/yhf98/yhf98">
         <img align="center" src="https://raw.githubusercontent.com/yhf98/yhf98/output/github-contribution-grid-snake.svg" />
   </a>
-  <a href="https://github.com/yhf98/yhf98">
+<!--   <a href="https://github.com/yhf98/yhf98">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhf98&repo=yhf98&theme=vue-light" />
   </a>
    <a href="https://github.com/yhf98">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhf98&repo=hid-handle&theme=vue-light" />
-  </a>
+  </a> -->
 </p>
 - 👋 Hi, I’m @yhf98
 - 👀 I’m interested in anything
